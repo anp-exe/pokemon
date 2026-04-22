@@ -1,5 +1,3 @@
-# Write code below 💖
-
 class Pokemon():
     def __init__(self, entry, name, types, description, is_caught):
         self.entry = entry
