@@ -56,7 +56,3 @@ python3 pokemon.py
 - Add input-based creation of Pokemon instances
 - Add validation (for example, ensuring `entry` is an integer)
 - Add unit tests for class methods
-
-## License
-
-This project is for learning and practice.
